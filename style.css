@@ -111,7 +111,7 @@ text-align:left;
 }
 /* Action*/
   #action{
-    background-color:aquamarine(80, 206, 122);
+    background-color:lightseagreen;
     padding: 7% 15%;
     text-align: center;
     line-height: 1.5;
@@ -133,13 +133,13 @@ text-align:left;
 
 /* footer */
 #footer{
-	background-color:brown(122, 236, 236);
+	background-color:maroon(122, 236, 236);
     color:#fff;
     padding: 4% 25%;
     text-align: center;
 }
 #footer1{
-	background-color:green(129, 101, 145);
+	background-color:lightslategrey;
     color:#fff;
     padding: 4% 25%;
     text-align: center;
