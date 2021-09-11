@@ -111,7 +111,7 @@ text-align:left;
 }
 /* Action*/
   #action{
-    background-color:lightseagreen;
+    background-color:lightgreen;
     padding: 7% 15%;
     text-align: center;
     line-height: 1.5;
@@ -133,13 +133,13 @@ text-align:left;
 
 /* footer */
 #footer{
-	background-color:maroon(122, 236, 236);
+	background-color:midnightblue(122, 236, 236);
     color:#fff;
     padding: 4% 25%;
     text-align: center;
 }
 #footer1{
-	background-color:lightslategrey;
+	background-color:lightcoral;
     color:#fff;
     padding: 4% 25%;
     text-align: center;
