@@ -18,7 +18,6 @@ body
 .nav-link:hover{
 	background-color: blue;
 }
-}
 .navbar
 {
 	
@@ -112,7 +111,7 @@ text-align:left;
 }
 /* Action*/
   #action{
-    background-color:lightseagreen;
+    background-color:aquamarine(80, 206, 122);
     padding: 7% 15%;
     text-align: center;
     line-height: 1.5;
@@ -134,13 +133,13 @@ text-align:left;
 
 /* footer */
 #footer{
-	background-color:maroon(122, 236, 236);
+	background-color:brown(122, 236, 236);
     color:#fff;
     padding: 4% 25%;
     text-align: center;
 }
 #footer1{
-	background-color:lightslategrey;
+	background-color:lightgrey(129, 101, 145);
     color:#fff;
     padding: 4% 25%;
     text-align: center;
